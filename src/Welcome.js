@@ -10,7 +10,7 @@ export default class Test extends React.Component{
     return(
       <div>      
       
-        Hello world from Test
+        Welcome to React program
         
       </div>
     )
