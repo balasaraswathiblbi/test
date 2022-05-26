@@ -41,7 +41,7 @@ export default class StateVars extends React.Component {
       <div>
 
         <div style={{ backgroundColor: this.state.bg, height: 100, width: 100 }}>
-          hello from state vars comp
+          hello from state vars components
         </div>
         <input 
           name="myname" 
